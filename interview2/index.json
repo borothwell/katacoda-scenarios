@@ -2,7 +2,6 @@
   "title": "Curriculum Developer Interview #3 - Ansible",
   "details": {
       "intro": {
-        "courseData": "background.sh",
         "code": "foreground.sh", 
         "text": "intro.md"
       },
