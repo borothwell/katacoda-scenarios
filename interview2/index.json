@@ -2,7 +2,7 @@
   "title": "Curriculum Developer Interview #2 - APM Trace Search",
   "details": {
       "intro": {
-        "code": "foreground.sh", 
+        "courseData": "background.sh", 
         "text": "intro.md"
       },
     "steps": [
