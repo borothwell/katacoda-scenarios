@@ -1,8 +1,11 @@
 {
   "title": "Curriculum Developer Interview #2 - APM Trace Search",
   "details": {
-      "intro": {
+      "host1": {
         "code": "foreground.sh", 
+        "text": "intro.md"
+      },
+      "host2": {
         "text": "intro.md"
       },
     "steps": [
